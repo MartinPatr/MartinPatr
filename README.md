@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hey, I'm Martin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h3>3rd Year CS Student @ University of Ottawa</h3>
+  
+  <a href="https://www.linkedin.com/in/martin-patrouchev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:martinpatrouchev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-<!--
-**MartinPatr/MartinPatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Tech Stack
+**Languages:** Python, Go, TypeScript, C++, Java <br/>
+**Frameworks:** Django, Flask, FastAPI, React, Express, PyTorch, Scikit-learn <br/>
+**Tools:** Docker, Kafka, Airflow, Ansible, Jenkins, AWS, Redis, MySQL, PySpark, Kubernetes  <br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Stock Checker Bot](https://github.com/MartinPatr/Stock-Analyst)** → Discord bot with **1,300+ users**, automated stock scraping & analysis.  
+- **[ESport Match Predictor](https://github.com/MartinPatr/ESportNN-Predictor)** → Neural network predicting esports matches with **71% accuracy**.  
+- **[Timebox](https://github.com/peter-bf/timebox)** →  **Second Place** at Mcgill Hackathon (McHacks) for Midnight Challenge, a privacy-focused digital time capsule using Midnight confidential smart contracts and ZKPs; designed to store encrypted blockchain messages only accessible after unlock time.  
+- **[Hack the Hill Management System](https://tracker.hackthehill.com/)** → Managed hackathon logistics; automated sponsorship emails securing **$40K+ funding**.  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=MartinPatr&theme=transparent&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinPatr&layout=compact&theme=transparent)
+
+---
