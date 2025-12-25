@@ -21,7 +21,7 @@
 - **[Stock Checker Bot](https://github.com/MartinPatr/Stock-Analyst)** → Discord bot with **1,300+ users**, automated stock scraping & analysis.  
 - **[ESport Match Predictor](https://github.com/MartinPatr/ESportNN-Predictor)** → Neural network predicting League of Legends Esport matches with **71% accuracy**.  
 - **[Timebox](https://github.com/peter-bf/timebox)** →  **Second Place** at Mcgill Hackathon (McHacks) for Midnight Challenge, a privacy-focused digital time capsule using Midnight confidential smart contracts and ZKPs; designed to store encrypted blockchain messages only accessible after unlock time.  
-- **[Hack the Hill Management System](https://tracker.hackthehill.com/)** → Full stack developer for the hackathon; automated sponsorship emails helping secure over **$40K+ funding**.  
+- **[TrueCount](https://github.com/MartinPatr/TrueCount)** → Decentralized commit–reveal voting dApp using Solidity smart contracts and a React/TypeScript frontend, enabling private, tamper-proof, and publicly auditable elections with wallet-based authentication.  
 
 ---
 
