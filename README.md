@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 Featured Projects
-- **[Stock Checker Bot](https://github.com/MartinPatr/Stock-Analyst)** → Discord bot with **1,300+ users**, automated stock scraping & analysis.  
-- **[ESport Match Predictor](https://github.com/MartinPatr/ESportNN-Predictor)** → Neural network predicting League of Legends Esport matches with **71% accuracy**.  
+- **[Stock Checker Bot](https://github.com/MartinPatr/Stock-Analyst)** → Discord bot with automated stock scraping & analysis.  
+- **[ESport Match Predictor](https://github.com/MartinPatr/ESportNN-Predictor)** → Neural network predicting League of Legends Esport matches.  
 - **[Timebox](https://github.com/peter-bf/timebox)** →  Submission at McHacks (Mcgill University's Hackathon) for Midnight Challenge, a privacy-focused digital time capsule.
 - **[TrueCount](https://github.com/MartinPatr/TrueCount)** → Submission at Hack the North (University of Waterloo's Hackathon) decentralized commit–reveal voting dApp.
 
